@@ -1,0 +1,115 @@
+
+--- Page 1 ---
+PRAXIA TECH
+NEUROCOGNITIVE ASSESSMENT CENTER
+CONFIDENTIAL REPORT
+Cognitive Assessment for Alzheimer's (CAA)
+Report Date: 11-Jun-2026
+Page 1 of 3 Generated on 11-Jun-2026 at 01:53 AM
+PATIENT DEMOGRAPHICS & ENCOUNTER
+Patient Name:
+Shivam
+Date of Birth / Age:
+21 Y
+Gender:
+Male
+Date of Assessment:
+11-Jun-2026
+Time of Assessment:
+01:53 AM
+Status:
+COMPLETED
+Referring Facility:
+-
+Ordering Provider:
+-
+Position:
+-
+CLINICAL IMPRESSION & OVERALL SCORE
+37
+/ 100
+Risk Category: MILD CONCERN
+The patient's overall cognitive score is 37 out of 100. Based on the standardized
+CAA grading scale, this places the patient in the 'MILD CONCERN' risk category.
+This indicates mild cognitive changes. Observe for symptoms and consider
+follow-up assessment.
+NEUROCOGNITIVE DOMAIN BREAKDOWN
+DOMAIN RAW SCORE WEIGHTED PERCENTILE CLINICAL STATUS
+Visuospatial 5.0 / 6.0 8.3 / 10 83.3% Significant Impairment
+Mood 2.0 / 9.0 2.2 / 10 22.2% Within Normal Limits
+Executive 7.0 / 15.0 13.1 / 28 46.7% Mild Impairment
+Language 6.0 / 15.0 8.8 / 22 40.0% Mild Impairment
+Memory 11.0 / 16.5 20.0 / 30 66.7% Significant Impairment
+REFERENCE RANGES
+SCORE RANGE RISK CLASSIFICATION RECOMMENDED CLINICAL ACTION
+0 - 20 Low Concern Routine Monitoring
+21 - 45 Mild Concern Observe Symptoms
+46 - 65 Moderate Concern Clinical Consultation
+66 - 100 High Concern Immediate Evaluation
+--- Page 2 ---
+PRAXIA TECH
+NEUROCOGNITIVE ASSESSMENT CENTER
+CONFIDENTIAL REPORT
+Cognitive Assessment for Alzheimer's (CAA)
+Report Date: 11-Jun-2026
+Page 2 of 3 Generated on 11-Jun-2026 at 01:53 AM
+APPENDIX A: DETAILED ASSESSMENT RESPONSES
+ITEM
+NO.
+CLINICAL PROMPT / QUESTION DOMAIN PATIENT RESPONSE
+E1 I have withdrawn from hobbies or social activities. Mood Sometimes
+D1 I misjudge distances or bump into things. Visuospatial Getting Worse
+E2 I feel more anxious, irritable, or low in mood. Mood Never
+D2 I misidentify objects or patterns. Visuospatial Frequently
+C1 I frequently struggle to find the right word
+mid-sentence.
+Language Frequently
+E3 My personality feels noticeably different. Mood Sometimes
+C2 I get confused about what day, month, or year it is. Language Sometimes
+B1 I struggle to manage bills, banking, or financial
+decisions.
+Executive Sometimes
+C3 I have difficulty following conversations or TV
+shows.
+Language Never
+B2 I find it harder to plan and complete multi-step
+tasks.
+Executive Never
+A1 I forget conversations or events that happened
+within the last few days.
+Memory Never
+C4 I sometimes get disoriented or lost in familiar
+places.
+Language Sometimes
+A2 I repeat the same question or story to the same
+person without realising it.
+Memory Frequently
+B3 I have made unusually risky or careless decisions
+recently.
+Executive Sometimes
+B4 I need more help than before with daily activities. Executive Frequently
+A3 I forget appointments, important dates, or where I
+placed common objects.
+Memory Sometimes
+C5 I have trouble following step-by-step instructions. Language Frequently
+A4 I have difficulty learning how to use a new device,
+app, or gadget.
+Memory Getting Worse
+B5 I start tasks and forget what I was doing partway
+through.
+Executive Getting Worse
+A5 Someone close to me has mentioned my memory
+seems worse recently.
+Memory Frequently
+--- Page 3 ---
+PRAXIA TECH
+NEUROCOGNITIVE ASSESSMENT CENTER
+CONFIDENTIAL REPORT
+Cognitive Assessment for Alzheimer's (CAA)
+Report Date: 11-Jun-2026
+Page 3 of 3 Generated on 11-Jun-2026 at 01:53 AM
+Electronically Signed By
+-
+DISCLAIMER: This automated neurocognitive assessment report is intended to serve as an adjunctive pre-screening tool. It does not
+constitute a definitive medical diagnosis and should not replace comprehensive clinical evaluation by a qualified healthcare
+professional. All findings should be interpreted in the context of the patient's full medical history and clinical presentation.

@@ -1,0 +1,1146 @@
+
+--- Page 1 ---
+Cognitive Diseases
+Pre-Screening Framework
+Version
+1.0
+Date
+June 2025
+Target Users
+Adults 18+ (50+ primary focus)
+Clinical Basis
+PANDA, Hachinski Scale, DLB Consortium,
+FBI, UHDRS, BICAMS
+Diseases Covered
+6 cognitive conditions
+Document Purpose
+Pre-screening questionnaire & scoring guide
+Clinical Disclaimer: This document is a pre-screening triage tool only. It is not a validated diagnostic instrument and cannot diagnose,
+confirm, or rule out any neurological or cognitive condition. Questions and scoring weights are drawn from publicly available, validated
+clinical instruments. A high score does not mean a person has the disease. A low score does not rule it out. Only a qualified clinician
+can perform a full assessment and provide a diagnosis. Independent clinical validation and ethics review are strongly recommended
+before any public deployment.
+Contents
+1.
+Parkinson's Disease (Cognitive / PD Dementia)
+2.
+Vascular Dementia (VaD)
+3.
+Dementia with Lewy Bodies (DLB)
+4.
+Frontotemporal Dementia (FTD)
+5.
+Huntington's Disease (HD)
+6.
+Multiple Sclerosis (Cognitive MS)
+
+--- Page 2 ---
+01 Parkinson's Disease
+Cognitive / Parkinson's Disease Dementia (PDD)
+What is it?
+Parkinson's disease is a brain condition that mainly affects movement. Over time, many
+people with Parkinson's also develop thinking and memory problems. This is called
+Parkinson's disease dementia (PDD). About 30% of people with Parkinson's will develop
+dementia, and up to 80% will have some level of cognitive change during the course of the
+disease.
+What it affects
+Attention, visuospatial skills, executive function, processing speed, memory. Motor symptoms
+(tremor, stiffness, slow movement) come first; cognitive symptoms usually follow later in the
+disease.
+Screening
+tools
+PANDA (Parkinson Neuropsychometric Dementia Assessment), MoCA-PD (Montreal
+Cognitive Assessment weighted for Parkinson's), PD-CRS (Parkinson's Disease Cognitive
+Rating Scale)
+Questions
+Answer Options and Scores
+Never = 0
+Occasionally (1-2x/month) = 1
+Frequently (weekly) = 2
+Getting noticeably
+worse = 3
+#
+Question
+ Never
+ (0)
+Occasionally
+ (1)
+ Frequently
+ (2)
+ Getting
+ worse
+ (3)
+PD1
+I notice my thinking feels slower than it used to be, even for
+simple tasks.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD2
+I have trouble concentrating on a task or a conversation for
+more than a few minutes.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD3
+I misjudge distances, bump into things, or find parking or
+steps difficult.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD4
+I find it hard to switch between two tasks or follow two things
+at once.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD5
+I know what I want to say but the word does not come out,
+even for everyday words.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD6
+I physically act out my dreams during sleep, such as kicking,
+punching, or shouting.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD7
+I feel emotionally flat or have lost interest in most things I
+used to enjoy.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD8
+I see things that other people cannot see, such as people,
+animals, or objects that are not there. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD9
+Someone close to me has said my memory or thinking
+seems worse recently.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+PD1
+0
+I have trouble remembering what I was doing partway
+through a task.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+Red Flag Note: Question PD8 (visual hallucinations) is a strong clinical warning sign. A score of 2 or 3 should
+automatically raise the result to at least Moderate Concern and prompt an urgent GP referral, as this symptom
+can also indicate Lewy Body Dementia.
+
+--- Page 3 ---
+Domain Weights
+Domain
+Weight
+Max Raw Score
+Questions
+Attention and Processing Speed
+30%
+9
+PD1, PD2, PD10
+Visuospatial and Motor-Cognitive
+25%
+9
+PD3, PD4, PD6
+Language and Word Finding
+20%
+6
+PD5
+Mood and Behaviour
+15%
+6
+PD7, PD8
+Third-Party Observation
+10%
+3
+PD9 (1.5x weight)
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+References
+[1] Kalbe E, et al. Screening for cognitive deficits in Parkinson's disease with the PANDA instrument. Parkinsonism Relat Disord.
+2008;14(2):93-101. DOI: 10.1016/j.parkreldis.2007.06.008 PubMed: https://pubmed.ncbi.nlm.nih.gov/17707678/
+[2] Nasreddine ZS, et al. The Montreal Cognitive Assessment (MoCA). J Am Geriatr Soc. 2005;53(4):695-699.
+https://mocacognition.com/
+[3] Galvin JE, et al. Cognitive symptoms in Parkinson disease cross-sectional cohort. PMC:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11221914/
+[4] Gill DJ, et al. Screening for cognitive impairment in PD: improving MoCA through subtest weighting. PLOS One 2016. PMC:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4954721/
+
+--- Page 4 ---
+02 Vascular Dementia
+VaD / Multi-Infarct Dementia
+What is it?
+Vascular dementia is the second most common type of dementia. It happens when the blood
+supply to parts of the brain is reduced or blocked, for example due to a stroke or a series of
+small strokes (TIAs). The brain cells in the affected areas are damaged or die, which causes
+thinking problems. Unlike Alzheimer's disease, memory is not always the first thing affected.
+Instead, problems with planning, organising, and thinking speed are often noticed first.
+What it affects
+Executive function, processing speed, attention, and planning. Memory may be less affected
+early on. Physical stroke risk factors like high blood pressure, atrial fibrillation, and diabetes
+are important context.
+Screening
+tools
+Hachinski Ischaemic Scale (HIS, 1975), NINDS-AIREN criteria, MoCA (Montreal Cognitive
+Assessment), Q*mci screen
+Questions
+Answer Options and Scores
+Never = 0
+Occasionally (1-2x/month) = 1
+Frequently (weekly) = 2
+Getting noticeably
+worse = 3
+#
+Question
+ Never
+ (0)
+Occasionally
+ (1)
+ Frequently
+ (2)
+ Getting
+ worse
+ (3)
+VD1
+My thinking feels clearly slower than it used to be.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD2
+I struggle to plan or organise tasks that have more than a
+couple of steps.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD3
+I lose track of what I was doing or saying in the middle of a
+task.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD4
+I cry or laugh suddenly for no clear reason, even when I do
+not feel sad or happy.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD5
+I have been told I have high blood pressure, diabetes, or
+atrial fibrillation (irregular heartbeat).
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD6
+I have had a stroke or a TIA (mini-stroke) in the past. [RED
+FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD7
+My thinking problems came on suddenly, or got noticeably
+worse in a short space of time. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD8
+I walk with a shuffle, or I have had unexplained falls
+recently.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD9
+I find it hard to follow a conversation or keep up with what is
+happening around me.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+VD1
+0
+Someone who knows me well has said my personality or
+thinking has changed.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+Red Flag Note: Questions VD6 (history of stroke or TIA) and VD7 (sudden onset) are strong clinical red flags. A
+score of 2 or 3 on either one automatically raises the result to at least Moderate Concern. Sudden or stepwise
+changes in thinking are a hallmark of vascular dementia and should prompt an urgent medical review.
+Domain Weights
+
+--- Page 5 ---
+Domain
+Weight
+Max Raw Score
+Questions
+Executive Function and Planning
+32%
+9
+VD2, VD3, VD9
+Processing Speed
+25%
+6
+VD1, VD7
+Vascular Risk Factors
+20%
+6
+VD5, VD6 (1.5x weight)
+Mood and Behaviour
+13%
+6
+VD4, VD10
+Motor and Gait
+10%
+3
+VD8
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+References
+[1] Hachinski VC, et al. Cerebral blood flow in dementia. Arch Neurol. 1975;32(9):632-637. DOI:
+10.1001/archneur.1975.00490510088009 PubMed: https://pubmed.ncbi.nlm.nih.gov/1138815/
+[2] O'Caoimh R, et al. Comparing diagnostic accuracy of screening tools across dementia subtypes. PMC:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6787633/
+[3] Roman GC, et al. Vascular dementia: diagnostic criteria for research studies (NINDS-AIREN). Neurology. 1993;43(2):250-260. DOI:
+10.1212/WNL.43.2.250
+[4] Iadecola C, et al. Vascular cognitive impairment and dementia. Nat Rev Dis Primers. 2019;5(1):21. DOI:
+10.1038/s41572-019-0064-2
+
+--- Page 6 ---
+03 Dementia with Lewy Bodies
+DLB
+What is it?
+Dementia with Lewy Bodies (DLB) is the second most common form of degenerative
+dementia after Alzheimer's disease. It is caused by small protein deposits called Lewy bodies
+forming inside brain cells. DLB has four core features: thinking ability that goes up and down
+(fluctuating cognition), seeing things that are not there (visual hallucinations), REM sleep
+behaviour disorder (acting out dreams), and movement problems similar to Parkinson's. A
+diagnosis of probable DLB requires two core features, or one core feature plus a supporting
+biomarker.
+What it affects
+Fluctuating attention and alertness, visuospatial skills, and executive function. Unlike
+Alzheimer's, memory is often less affected in the early stages. Visual hallucinations and REM
+sleep disorder are particularly distinctive.
+Screening
+tools
+DLB Consortium Fourth Consensus Criteria (McKeith et al., 2017, Neurology), MoCA (with
+visuospatial domain weighted more heavily)
+Questions
+Answer Options and Scores
+Never = 0
+Occasionally (1-2x/month) = 1
+Frequently (weekly) = 2
+Getting noticeably
+worse = 3
+#
+Question
+ Never
+ (0)
+Occasionally
+ (1)
+ Frequently
+ (2)
+ Getting
+ worse
+ (3)
+DL1
+My alertness and thinking ability varies a lot hour to hour or
+day to day. Sometimes I seem fine; other times I am
+confused.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL2
+I see detailed visions of people, animals, or objects that
+other people cannot see. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL3
+I physically act out my dreams during sleep, such as
+punching, kicking, or shouting. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL4
+I have difficulty recognising familiar faces or understanding
+what I am looking at.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL5
+I have a tremor at rest, or my movements have become
+slow and stiff.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL6
+I have had unexplained falls or fainting spells.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL7
+I struggle to concentrate or pay attention, and this changes
+noticeably from day to day.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL8
+I feel more anxious or low in mood than before, in a way that
+is new for me.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL9
+I have trouble judging distances or navigating spaces I know
+well.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+DL1
+0
+Someone who knows me well has noticed my alertness or
+behaviour varies a lot day to day.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+
+--- Page 7 ---
+Red Flag Note: Questions DL2 (visual hallucinations) and DL3 (REM sleep behaviour disorder) are core
+diagnostic features of DLB according to McKeith et al. (2017). A score of 2 or 3 on either one automatically
+raises the result to at least Moderate Concern. If both are scored 2 or more, escalate to High Concern
+regardless of the total score. This combination is a strong indicator that warrants urgent specialist review.
+Domain Weights
+Domain
+Weight
+Max Raw Score
+Questions
+Fluctuating Cognition and Attention
+30%
+9
+DL1, DL7, DL10
+Core DLB Features
+30%
+6
+DL2 (1.5x), DL3 (1.5x)
+Visuospatial and Perception
+20%
+6
+DL4, DL9
+Parkinsonism and Falls
+10%
+6
+DL5, DL6
+Mood and Behaviour
+10%
+6
+DL8
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+References
+[1] McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium.
+Neurology. 2017;89(1):88-100. PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5496518/
+[2] Lewy Body Dementia Association. Updated diagnostic criteria for DLB. https://lbda.org/new-diagnostic-criteria-published-for-dlb
+[3] Boot BP. Comprehensive treatment of dementia with Lewy bodies. Alzheimers Res Ther. 2015;7(1):45. PMC:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4437654/
+[4] Nasreddine ZS, et al. The Montreal Cognitive Assessment. J Am Geriatr Soc. 2005;53(4):695-699.
+
+--- Page 8 ---
+04 Frontotemporal Dementia
+FTD / Behavioural Variant and Language Variant
+What is it?
+Frontotemporal dementia (FTD) is a group of conditions caused by damage to the frontal and
+temporal lobes of the brain. Unlike Alzheimer's disease, memory is usually not the first thing
+affected. Instead, the main early signs involve changes in personality, behaviour, and
+language. FTD is the most common form of dementia in people under 65. There are two main
+types: the behavioural variant (bvFTD), which mainly causes personality and behaviour
+changes, and the language variant (Primary Progressive Aphasia, PPA), which mainly affects
+speech and word understanding.
+What it affects
+Personality and behaviour (disinhibition, apathy, loss of empathy), language and speech,
+executive function. Memory and visuospatial skills are less affected in early stages. Most
+common dementia in the under-65 age group.
+Screening
+tools
+Frontal Behavioural Inventory (FBI, Kertesz et al., 1997, Can J Neurol Sci 24:29-36),
+Cambridge Behavioural Inventory Revised (CBI-R)
+Questions
+Answer Options and Scores
+Never = 0
+Occasionally (1-2x/month) = 1
+Frequently (weekly) = 2
+Getting noticeably
+worse = 3
+#
+Question
+ Never
+ (0)
+Occasionally
+ (1)
+ Frequently
+ (2)
+ Getting
+ worse
+ (3)
+FT1
+I behave in ways that are socially not appropriate, for
+example making rude comments, ignoring personal space,
+or acting on impulse in public.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT2
+I have lost all motivation and sit for hours doing nothing,
+even when asked to do something.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT3
+I follow the same rigid routines every day and get very upset
+if they are changed or interrupted.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT4
+I have developed a sudden craving for sweet or starchy
+foods, or I eat much more than before.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT5
+Others have said I seem cold, unfeeling, or uncaring in a
+way I never was before. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT6
+I am losing the meaning of everyday words. I no longer
+understand what some common objects are called.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT7
+My personality feels very different from how I used to be, in
+a way I cannot explain. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT8
+I repeat the same words, phrases, or actions again and
+again without realising it.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT9
+I have difficulty planning or organising even simple tasks,
+like making a meal or getting dressed.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+FT1
+0
+Friends or family have said my behaviour has changed in a
+way that is very out of character.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+
+--- Page 9 ---
+Red Flag Note: Questions FT5 (loss of empathy) and FT7 (personality change) are key diagnostic indicators
+from the FBI (Kertesz et al., 1997). For anyone under the age of 65, a score of 2 or 3 on either question should
+automatically raise the result to at least Moderate Concern. Significant personality change in a younger adult is
+the most important early warning sign of FTD and should not be attributed to stress or depression without
+medical review.
+Domain Weights
+Domain
+Weight
+Max Raw Score
+Questions
+Behaviour and Disinhibition
+30%
+12
+FT1, FT3, FT8, FT10
+Apathy and Motivation Loss
+25%
+6
+FT2, FT4
+Loss of Empathy and Personality
+20%
+6
+FT5 (1.5x), FT7 (1.5x)
+Language and Semantics
+15%
+3
+FT6
+Executive Function
+10%
+3
+FT9
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+References
+[1] Kertesz A, Davidson W, Fox H. Frontal behavioral inventory: diagnostic criteria for frontal lobe dementia. Can J Neurol Sci.
+1997;24(1):29-36. PubMed: https://pubmed.ncbi.nlm.nih.gov/9043744/
+[2] Kertesz A, et al. The Frontal Behavioral Inventory in the differential diagnosis of frontotemporal dementia. J Int Neuropsychol Soc.
+2000;6(4):460-468. PubMed: https://pubmed.ncbi.nlm.nih.gov/10902415/
+[3] Rascovsky K, et al. Sensitivity of revised diagnostic criteria for bvFTD. Brain. 2011;134(9):2456-2477. DOI: 10.1093/brain/awr179
+[4] Pijnenburg YA, et al. Behavioural disturbances differentiate FTLD subtypes and AD. Int J Geriatr Psychiatry. 2013. DOI:
+10.1002/gps.3907
+
+--- Page 10 ---
+05 Huntington's Disease
+HD / Cognitive and Behavioural Symptoms
+What is it?
+Huntington's disease (HD) is a genetic condition in which certain nerve cells in the brain break
+down over time. It is caused by a change (mutation) in the HTT gene. Each child of a parent
+with HD has a 50% chance of inheriting the gene. HD affects movement, thinking, and mood.
+Involuntary jerky movements called chorea are the most well-known physical sign. Cognitive
+problems often appear before or alongside motor symptoms and include slowed thinking,
+difficulty planning, and trouble with attention and working memory.
+What it affects
+Processing speed (most affected), executive function, attention, working memory. Emotional
+dysregulation and depression are also very common. Family history of HD is a critical risk
+factor.
+Screening
+tools
+UHDRS Cognitive Battery (Unified Huntington's Disease Rating Scale), PD-CRS (Parkinson's
+Disease Cognitive Rating Scale, validated for HD by Borroni et al. 2023, PMC10576674),
+Symbol Digit Modalities Test (SDMT)
+Questions
+Answer Options and Scores
+Never = 0
+Occasionally (1-2x/month) = 1
+Frequently (weekly) = 2
+Getting noticeably
+worse = 3
+#
+Question
+ Never
+ (0)
+Occasionally
+ (1)
+ Frequently
+ (2)
+ Getting
+ worse
+ (3)
+HD1
+My thinking and responses feel noticeably slower. Others
+have commented I take longer to answer.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD2
+I find it hard to organise my day or complete tasks in the
+right order.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD3
+I have difficulty focusing on something for more than a few
+minutes without losing track.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD4
+I have sudden outbursts of anger, sadness, or irritability that
+seem out of proportion.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD5
+I have noticed involuntary jerky or twitching movements in
+my hands, arms, or face. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD6
+A parent or sibling has been diagnosed with Huntington's
+disease. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD7
+I have trouble holding information in my head while I am in
+the middle of doing something.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD8
+I feel persistently sad, low, or empty in a way that is unusual
+for me.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD9
+I make impulsive decisions or act without thinking, in a way I
+did not before.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+HD1
+0
+My handwriting, speech, or ability to do fine movements has
+gotten worse.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+
+--- Page 11 ---
+Red Flag Note: Question HD6 (family history of Huntington's disease) is the most important risk indicator. Any
+score of 1 or more on HD6, combined with a score of 2 or more on HD5 (involuntary movements), should
+automatically raise the result to High Concern. This combination strongly suggests the person should speak to
+a doctor about genetic testing and counselling. Genetic testing for HD can confirm whether someone carries
+the mutation.
+Domain Weights
+Domain
+Weight
+Max Raw Score
+Questions
+Processing Speed and Attention
+30%
+9
+HD1, HD3, HD7
+Executive Function
+25%
+6
+HD2, HD9
+Motor Symptoms
+20%
+6
+HD5, HD10
+Mood and Emotional Control
+15%
+6
+HD4, HD8
+Family History (Risk Factor)
+10%
+3
+HD6 (2x weight)
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+References
+[1] Borroni B, et al. Measuring cognitive impairment and monitoring cognitive decline in Huntington's disease: a comparison of
+assessment instruments (PD-CRS validation for HD). PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576674/
+[2] Tabrizi SJ, et al. Biological and clinical manifestations of Huntington's disease. Lancet Neurol. 2009;8(1):83-94. DOI:
+10.1016/S1474-4422(08)70278-X
+[3] Unified Huntington's Disease Rating Scale (UHDRS). Huntington Study Group. Mov Disord. 1996;11(2):136-142. DOI:
+10.1002/mds.870110204
+[4] Cognitive Assessment Tools for Huntington's Disease. ClinicalTrials.gov. https://clinicaltrials.gov/study/NCT06546488
+
+--- Page 12 ---
+06 Multiple Sclerosis
+Cognitive MS / MS-related Cognitive Impairment
+What is it?
+Multiple sclerosis (MS) is a condition in which the immune system attacks the protective
+covering of nerve fibres (myelin) in the brain and spinal cord. This disrupts the signals
+travelling through the nerves. Cognitive problems occur in 50 to 70% of people with MS at
+some point during the disease. The most commonly affected area is information processing
+speed, meaning tasks and thinking that used to feel easy now take longer. Memory, attention,
+and word finding are also commonly affected. Many people with MS describe this as 'brain
+fog'.
+What it affects
+Processing speed (most affected), memory (verbal and visuospatial), attention and
+concentration, word finding. Fatigue is a major factor that worsens cognitive performance.
+Physical symptoms like vision problems, numbness, or weakness are separate but important
+context.
+Screening
+tools
+BICAMS (Brief International Cognitive Assessment for Multiple Sclerosis, Benedict et al. 2012,
+BMC Neurol 12:55), SDMT (Symbol Digit Modalities Test, the gold standard for MS cognitive
+screening), MACFIMS battery
+Questions
+Answer Options and Scores
+Never = 0
+Occasionally (1-2x/month) = 1
+Frequently (weekly) = 2
+Getting noticeably
+worse = 3
+#
+Question
+ Never
+ (0)
+Occasionally
+ (1)
+ Frequently
+ (2)
+ Getting
+ worse
+ (3)
+MS1
+I take noticeably longer to process what people say or to
+finish tasks I used to do quickly.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS2
+My thinking gets much worse when I am tired. I often call it
+'brain fog'.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS3
+I forget things I was told recently, such as names,
+instructions, or appointments.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS4
+I lose my train of thought easily, even when it is quiet and I
+am not distracted.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS5
+I often struggle to find words, even for common things I
+know well.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS6
+I have had episodes of blurred or double vision, or loss of
+sight in one eye.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS7
+I have had episodes of numbness, tingling, or weakness in
+my arms or legs. [RED FLAG]
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS8
+I feel very tired most of the time, even when I have not done
+much.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS9
+I find it hard to read, follow a film, or keep up with a
+conversation.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+MS1
+0
+I struggle to remember things I was taught recently, such as
+a new process or a set of instructions.
+ [ ]
+ [ ]
+ [ ]
+ [ ]
+
+--- Page 13 ---
+Red Flag Note: Question MS7 (neurological symptoms like numbness, tingling, or weakness) is a physical red
+flag. A score of 2 or 3 on MS7, especially when combined with cognitive symptoms, should raise the result to at
+least Moderate Concern and prompt a GP referral for neurological assessment. These physical symptoms,
+alongside cognitive difficulties, are characteristic of MS and should not be dismissed.
+Domain Weights
+Domain
+Weight
+Max Raw Score
+Questions
+Processing Speed
+30%
+9
+MS1, MS2, MS9
+Memory
+25%
+9
+MS3, MS10
+Attention and Concentration
+20%
+6
+MS4, MS8
+Language and Word Finding
+15%
+3
+MS5
+Physical / Neurological Signs
+10%
+6
+MS6, MS7 (1.5x weight)
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+References
+[1] Benedict RHB, et al. Brief International Cognitive Assessment for MS (BICAMS): international standards for validation. BMC Neurol.
+2012;12:55. PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3607849/
+[2] Langdon DW, et al. Recommendations for BICAMS. Mult Scler. 2012;18(6):891-898. PMC:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546642/
+[3] Potticary H, Langdon D. Systematic Review and Meta-Analysis of BICAMS International Validations. J Clin Med. 2023;12(2):703.
+PMC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9863826/
+[4] Rao SM, et al. Cognitive dysfunction in multiple sclerosis: frequency, patterns, and prediction. Neurology. 1991;41(5):685-691. DOI:
+10.1212/WNL.41.5.685
+
+--- Page 14 ---
+Scoring Formula
+How to calculate the Final Score for any disease module
+St
+e
+p
+Action
+Formula
+1
+Add up raw scores for each domain
+Sum all answer values (0 to 3) for questions in that domain
+2
+Apply question weights
+For questions marked 1.5x weight: multiply the answer value by 1.5 first
+3
+Normalise each domain score
+domain_norm = (domain_raw / domain_max_raw) x 100
+4
+Apply domain weight
+domain_weighted = domain_norm x (domain_weight / 100)
+5
+Calculate Base Score
+base_score = sum of all domain_weighted scores (0 to 100)
+6
+Apply Age Multiplier
+Under 50: x0.7   |   50 to 64: x1.0   |   65 to 74: x1.2   |   75+: x1.4
+7
+Calculate Final Score
+final_score = min(base_score x age_multiplier, 100)
+8
+Check Red Flags
+If any red flag question scores 2 or 3, escalate to at minimum Moderate Concern
+Scoring Guide
+Score Range
+Label
+Colour
+Recommended Action
+0 to 20
+Low Concern
+Green
+No significant signs. Recheck in 12 months.
+21 to 45
+Mild Concern
+Yellow
+Some signs present. Mention at next GP visit.
+46 to 65
+Moderate Concern
+Orange
+Multiple signs. Book a GP appointment this month.
+66 to 100
+High Concern
+Red
+Strong signs. See a doctor soon.
+Quick Reference Summary
+Disease
+Primary Domain Affected
+Key Screening Tool
+Validated By
+Main Red Flag
+Parkinson's (PDD)
+Attention, visuospatial
+PANDA / MoCA-PD
+Kalbe et al. 2008
+Visual hallucinations
+Vascular Dementia
+Executive, processing speed
+Hachinski Scale / MoCA
+Hachinski et al. 1975
+Sudden cognitive decline
+Lewy Body (DLB)
+Fluctuating cognition
+DLB Consortium Criteria
+McKeith et al. 2017
+Hallucinations + dream acting
+Frontotemporal (FTD)
+Personality, behaviour
+FBI / CBI-R
+Kertesz et al. 1997
+Personality change under 65
+Huntington's (HD)
+Processing speed, executive
+UHDRS / PD-CRS
+Huntington Study Group 1996
+Family history + chorea
+Multiple Sclerosis
+Processing speed, memory
+BICAMS / SDMT
+Benedict et al. 2012
+Neurological episodes
+Important: This framework is for informational and development purposes only. It is not a clinical diagnostic tool. Questions and
+scoring models are based on publicly available validated instruments. The composite scoring system described here has not been
+independently validated in a clinical trial. Before deploying any version of this publicly, independent clinical validation and ethics
+review are required.
+For more information on validated tools, visit: PubMed (https://pubmed.ncbi.nlm.nih.gov), MoCA (https://mocacognition.com), LBDA
+(https://lbda.org), HDSA (https://hdsa.org), MS Society (https://www.mssociety.org.uk).

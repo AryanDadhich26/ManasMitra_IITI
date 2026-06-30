@@ -1,0 +1,1360 @@
+
+--- Page 1 ---
+ADAS-COG 
+--- Page 2 ---
+ 
+NEURO  TESTS  
+ 
+ 
+01.
+ 
+  ADAS-COG  ( Resource:https://pmc.ncbi.nlm.nih.gov/articles/PMC5929311/)  
+WHAT  DOES  IT  DO?  
+It  is  mainly  used  for  severe  patience,  even  advanced  is  not  so  
+useful
+ 
+for
+ 
+early
+ 
+stages
+ 
+patience.
+ 
+It
+ 
+checks:
+ 
+●  memory  recall  ●  word  recognition  ●  language  ability  ●  orientation  ●  comprehension  ●  Concentration  
+ 
+ 
+ 
+
+--- Page 3 ---
+ 
+ 
+ 
+How  does  it  do?  
+●  Patients  are  given  multiple  tasks  such  as  word  recall,  naming  objects,  following  commands,  remembering  instructions,   spoken  language  evaluation(https://pmc.ncbi.nlm.nih.gov/articles/PMC5929311/table/jad-63-jad170991-t001/)  ●  Complete  guide  :  (https://www.fda.gov/media/122843/download)  from  page  number  28  rules  are  given  on  page  number  34  a  sample  form  is  given.   
+ 
+ 
+ 
+ 
+Copyright  Issues  
+●  Need  to  take  permission  from  Mapi  Research  Trust,Alzheimer’s  Disease  Cooperative  Study  (ADCS)  —  They  collaborated  on  the  test  and  still  handle  many  requests.  Contact:  Carol  Evans  (email  available  on  their  site).  ●  https://www.adcs.org/instruments/  ●   ADSC  site  ●  Alternatives:Mini-Cog,  GPCOG  ●  Main  copyright  owner:  Icahn  School  of  Medicine  at  Mount  Sinai  
+ 
+ 
+  
+
+--- Page 4 ---
+ 
+ 
+Questions?  
+1.  Show  8-10  simple  words   one  by  one  with  a  timer  or  next  word  after  delay  ask  which  of  these  words  did  you  see  make  multiple  correct  and  give  20-30  options.  2.  Show  a  3d  view  of  room  and  ask  tasks  such  as  click  ceiling  etc  this  is  for  task  based  questions.  3.  Tell  them  task  to  be  done  and  then  give  options  that  which  is  correct  path  or  process  to  follow  for  the  given  task.  4.  Delayed  recog  .  5.  Either  ask  them  to  draw  the  should  object  or  show  4  options  ask  them  name  of  the  shown  object.     
+ 
+
+--- Page 5 ---
+RYFF
+ 
+--- Page 6 ---
+RYFF  
+(Resource:https://sparqtools.org/mobility-measu
+re/psychological-wellbeing-scale/#42-item-versi
+on)
+ 
+ 
+What  does  it  do?  
+Measures  psychological  well  being  purpose  in  life,  measures  
+emotional
+ 
+strength.
+ 
+Sees
+ 
+whether
+ 
+a
+ 
+positive
+ 
+mood
+ 
+protects
+ 
+thinking
+ 
+skill
+ 
+even
+ 
+with
+ 
+bad
+ 
+genes.
+ 
+It  does  not  tell  about  dementia  etc.  
+
+--- Page 7 ---
+How  does  it  do?  
+●  Respondents  rate  how  strongly  they  agree  or  disagree  
+with
+ 
+42
+ 
+statements
+ 
+using
+ 
+a
+ 
+7-point
+ 
+scale
+ 
+(1
+ 
+=
+ 
+strongly
+ 
+agree;
+ 
+7
+ 
+=
+ 
+strongly
+ 
+disagree).  ●  Scale  used:1  =  strongly  agree;  2  =  somewhat  agree;  3  
+=
+ 
+a
+ 
+little
+ 
+agree;
+ 
+4
+ 
+=
+ 
+neither
+ 
+agree
+ 
+or
+ 
+disagree;
+ 
+5
+ 
+=
+ 
+a
+ 
+little
+ 
+disagree;
+ 
+6
+ 
+=
+ 
+somewhat
+ 
+disagree;
+ 
+7
+ 
+=
+ 
+strongly
+ 
+disagree.  ●  There  are  two  types  of  PWB  scale  42  items  more  
+statistically
+ 
+good
+ 
+than
+ 
+18
+ 
+items
+ 
+scale
+ ●  42  item  (https://docs.google.com/document/d/1pn2oZi3NiSuEJjtxl0hfaFpEa4Ea0v6YtrlWTAkVUlY/edit?tab=t.0)  ●  Process:  1.  User  Starts  Assessment   2.  User  Selects  Responses,  User  taps  an  
+option
+ 
+Example
+ 
+Options:
+ 
+Strongly
+ 
+Agree,
+ 
+Agree,
+ 
+Neutral,
+ 
+Disagree
+ 
+ 3.  Responses  Converted  Into  Numerical  
+Scores
+ 
+using
+ 
+the
+ 
+scale
+ 
+we
+ 
+described
+ 
+above
+ 4.  Reverse  Scoring  Applied  if  question  
+asked
+ 
+is
+ 
+framed
+ 
+negatively
+ 
+(formula:
+ 
+(maximum
+ 
+score+1)-score
+ 
+given)
+ 5.  Dimension-wise  Scores,  Calculated  
+Categories:
+ 
+Autonomy,
+ 
+Personal
+ 
+Growth,
+ 
+Purpose
+ 
+in
+ 
+Life,
+ 
+Positive
+ 
+Relation
+ 
+ 6.  Wellbeing  score  percentage  is  
+generated:(obtained/maximum)*100
+ 7.  Higher  score  healthy  psychology  
+  Copyright   
+●  Mail  project  description  to  Dr.Carol  
+Ryff(cryff@wisc.edu )  
+ 
+--- Page 8 ---
+Questions?  
+1.  “I  am  not  afraid  to  voice  my  opinions,  even  when  they  are  in  opposition  to  the  
+opinions
+ 
+of
+ 
+most
+ 
+people.”
+ 
+2.  “For  me,  life  has  been  a  continuous  process  of  learning,  changing,  and  growth.”  
+3.  “In  general,  I  feel  I  am  in  charge  of  the  situation  in  which  I  live.”  
+4.  “People  would  describe  me  as  a  giving  person,  willing  to  share  my  time  with  others.”  
+5.  “I  am  not  interested  in  activities  that  will  expand  my  horizons.”  
+6.  “I  enjoy  making  plans  for  the  future  and  working  to  make  them  a  reality.”  
+7.  “Most  people  see  me  as  loving  and  affectionate.”  
+8.  “In  many  ways  I  feel  disappointed  about  my  achievements  in  life.”  
+9.  “I  live  life  one  day  at  a  time  and  don’t  really  think  about  the  future.”  
+10.  “I  tend  to  worry  about  what  other  people  think  of  me.”  
+11.  “When  I  look  at  the  story  of  my  life,  I  am  pleased  with  how  things  have  turned  out.”  
+12.  “I  have  difficulty  arranging  my  life  in  a  way  that  is  satisfying  to  me.”  
+13.  “My  decisions  are  not  usually  influenced  by  what  everyone  else  is  doing.”  
+14.  “I  gave  up  trying  to  make  big  improvements  or  changes  in  my  life  a  long  time  ago.”  
+15.  “The  demands  of  everyday  life  often  get  me  down.”  
+16.  “I  have  not  experienced  many  warm  and  trusting  relationships  with  others.”  
+17.  “I  think  it  is  important  to  have  new  experiences  that  challenge  how  you  think  about  
+yourself
+ 
+and
+ 
+the
+ 
+world.”
+ 
+18.  “Maintaining  close  relationships  has  been  difficult  and  frustrating  for  me.”  
+19.  “My  attitude  about  myself  is  probably  not  as  positive  as  most  people  feel  about  
+themselves.”
+ 
+--- Page 9 ---
+20.  “I  have  a  sense  of  direction  and  purpose  in  life.”  
+21.  “I  judge  myself  by  what  I  think  is  important,  not  by  the  values  of  what  others  think  is  
+important.”
+ 
+22.  “In  general,  I  feel  confident  and  positive  about  myself.”  
+23.  “I  have  been  able  to  build  a  living  environment  and  a  lifestyle  for  myself  that  is  much  
+to
+ 
+my
+ 
+liking.”
+ 
+24.  “I  tend  to  be  influenced  by  people  with  strong  opinions.”  
+25.  “I  do  not  enjoy  being  in  new  situations  that  require  me  to  change  my  old  familiar  
+ways
+ 
+of
+ 
+doing
+ 
+things.”
+ 
+26.  “I  do  not  fit  very  well  with  the  people  and  the  community  around  me.”  
+27.  “I  know  that  I  can  trust  my  friends,  and  they  know  they  can  trust  me.”  
+28.  “When  I  think  about  it,  I  haven’t  really  improved  much  as  a  person  over  the  years.”  
+29.  “Some  people  wander  aimlessly  through  life,  but  I  am  not  one  of  them.”  
+30.  “I  often  feel  lonely  because  I  have  few  close  friends  with  whom  to  share  my  
+concerns.”
+ 
+31.  “When  I  compare  myself  to  friends  and  acquaintances,  it  makes  me  feel  good  about  
+who
+ 
+I
+ 
+am.”
+ 
+32.  “I  don’t  have  a  good  sense  of  what  it  is  I’m  trying  to  accomplish  in  life.”  
+33.  “I  sometimes  feel  as  if  I’ve  done  all  there  is  to  do  in  life.”  
+34.  “I  feel  like  many  of  the  people  I  know  have  gotten  more  out  of  life  than  I  have.”  
+35.  “I  have  confidence  in  my  opinions,  even  if  they  are  contrary  to  the  general  
+consensus.”
+ 
+36.  “I  am  quite  good  at  managing  the  many  responsibilities  of  my  daily  life.”  
+37.  “I  have  the  sense  that  I  have  developed  a  lot  as  a  person  over  time.”  
+--- Page 10 ---
+38.  “I  enjoy  personal  and  mutual  conversations  with  family  members  and  friends.”  
+39.  “My  daily  activities  often  seem  trivial  and  unimportant  to  me.”  
+40.  “I  like  most  parts  of  my  personality.”  
+41.  “It’s  difficult  for  me  to  voice  my  own  opinions  on  controversial  matters.”  
+42.  “I  often  feel  overwhelmed  by  my  responsibilities.”  Options  of  each  question  will  be:  
+●   strongly  agree  ●   somewhat  agree  ●  a  little  agree  ●  neither  agree  or  disagree  ●   a  little  disagree  ●   somewhat  disagree  ●   strongly  disagree 
+ 
+  
+ 
+ 
+--- Page 11 ---
+Mini-Cog  
+--- Page 12 ---
+MINI-COG  
+(Resource:https://www.alz.org/get
+media/7c51d895-9df8-4819-8ea3-b
+896ff9a9deb/mini-cog.pdf)
+ 
+ 
+WHAT  DOES  IT  DO?  
+A  brief,  3-minute  screening  tool  used  to  detect  cognitive  
+impairment
+ 
+and
+ 
+the
+ 
+early
+ 
+signs
+ 
+of
+ 
+dementia.
+ 
+How  does  it  do  it?  
+●  https://www.alz.org/getmedia/7c51d895-9df8-4819-8ea3-b896ff9a9deb/mini-cog.pdf 
+●  Three  word  Recognition  
+○  Versions  of  word  :  
+■  Version  1  Banana  Sunrise  Chair  
+■   Version  4  River  Nation  Finger   
+■  Version  2  Leader  Season  Table   
+
+--- Page 13 ---
+■  Version  5  Captain  Garden  Picture   
+■  Version  3  Village  Kitchen  Baby   
+■  Version  6  Daughter  Heaven  Mountain   
+●  Clock  drawing  
+●  Three  word  recall(Record  the  word  list  version  number  and  the  person’s  
+answers
+ 
+)
+ 
+●  Scoring:  
+○  Word  Recall:  ______  (0-3  points)  1  point  for  each  word  
+spontaneously
+ 
+recalled
+ 
+without
+ 
+cueing.
+ 
+ 
+○  Clock  Draw:  ______  (0  or  2  points)  Normal  clock  =  2  points.  A  
+normal
+ 
+clock
+ 
+has
+ 
+all
+ 
+numbers
+ 
+placed
+ 
+in
+ 
+the
+ 
+correct
+ 
+sequence
+ 
+and
+ 
+approximately
+ 
+correct
+ 
+position
+ 
+(e.g.,
+ 
+12,
+ 
+3,
+ 
+6
+ 
+and
+ 
+9
+ 
+are
+ 
+in
+ 
+anchor
+ 
+positions)
+ 
+with
+ 
+no
+ 
+missing
+ 
+or
+ 
+duplicate
+ 
+numbers.
+ 
+Hands
+ 
+are
+ 
+pointing
+ 
+according
+ 
+to
+ 
+the
+ 
+instruction.
+ 
+Inability
+ 
+or
+ 
+refusal
+ 
+to
+ 
+draw
+ 
+a
+ 
+clock
+ 
+(abnormal)
+ 
+=
+ 
+0
+ 
+points.
+ 
+ 
+○  Total  score  =  Word  Recall  score  +  Clock  Draw  score.   
+○  For  score  <3  or  <4  according  to  the  situation  patient  is  transferred  
+further
+ 
+  
+Copyright?  
+●  Mini-Cog™  ©  S.  Borson.  All  rights  reserved.Reprinted  with  
+permission
+ 
+of
+ 
+the
+ 
+author
+ 
+solely
+ 
+for
+ 
+clinical
+ 
+and
+ 
+educational
+ 
+purposes.May
+ 
+not
+ 
+be
+ 
+modiﬁed
+ 
+or
+ 
+used
+ 
+for
+ 
+commercial,
+ 
+marketing,
+ 
+or
+ 
+research
+ 
+purposes
+ 
+without
+ 
+permission
+ 
+of
+ 
+the
+ author  (soob@uw.edu).written  in  the  pdf  i  shared  above  as  link.  ●  
+Go  to  → https://mini-cog.com/contact/ ●  
+Fill  their  form  and  clearly  explain:  ○  
+You  want  to  use  it  on  a  commercial  website  in  India.  ○  
+For  early-stage  detection  awareness.  ○  
+Users  will  take  it  online  (MCQ  /  digital  version).  
+--- Page 14 ---
+They  will  tell  you  if  permission  is  granted,  any  conditions  (e.g.,  must  remain  
+free
+ 
+for
+ 
+users,
+ 
+cannot
+ 
+modify
+ 
+scoring,
+ 
+must
+ 
+show
+ 
+copyright
+ 
+notice,
+ 
+etc.),
+ 
+and
+ 
+whether
+ 
+there
+ 
+is
+ 
+any
+ 
+fee.
+ 
+ 
+Questions?  
+Q1.  Show  them  3  words  from  any  of  the  versions  mentioned  in  how  section  and  ask  them  
+to
+ 
+remember
+ 
+then
+ 
+move
+ 
+to
+ 
+next
+ 
+once
+ 
+remembered
+ 
+Q2.  Draw  a  clock  and  in  it  mark  11  pass  10  
+Q3.Tick  the  words  which  i  showed  you  eralier.   
+Options:  give  10  options  with  3  correct  ones  allow  multiple  correct  
+ 
+--- Page 15 ---
+FAQ  
+--- Page 16 ---
+FAQ  (Functional  Activities  
+Questionnaire)
+ 
+(Resource:https://www.alz.org/getmedia/73ea01f0-690b-4ff3-b909-4f0fa9a022ef/functional-activities-questionnaire.pdf ,  https://www.healthcare.uiowa.edu/familymedicine/fpinfo/docs/f
+unctional-activities-assessment-tool.pdf)
+ 
+ 
+What  does  it  do?  
+Tests  person’s  ability  to  live  independently  or  we  can  say  it  
+evaluates
+ 
+a
+ 
+patient's
+ 
+Instrumental
+ 
+Activities
+ 
+of
+ 
+Daily
+ 
+Living
+ 
+(IADLs)
+ 
+.
+ 
+ Instead  of  testing  memory  through  direct  questions  like  a  typical       
+cognitive
+ 
+screening,
+ 
+the
+ 
+FAQ
+ 
+is
+ 
+administered
+ 
+to
+ 
+a
+ 
+close
+ 
+family
+ 
+member
+ 
+or
+ 
+caregiver
+ 
+to
+ 
+observe
+ 
+how
+ 
+the
+ 
+patient
+ 
+navigates
+ 
+real-world,
+ 
+complex
+ 
+tasks.
+ 
+It  means  it  is  asked  to  someone  other  than  patient   
+
+--- Page 17 ---
+ 
+How  does  it  do  
+that?(Resource:https://www.healthcare.uiowa.edu
+/familymedicine/fpinfo/docs/functional-activitie
+s-assessment-tool.pdf)
+ 
+●  Ask  informant  to  rate  patient’s  ability  using  the  following  
+scoring
+ 
+system:
+ 
+•
+ 
+Dependent
+ 
+=
+ 
+3
+ 
+•
+ 
+Requires
+ 
+assistance
+ 
+=
+ 
+2
+ 
+•
+ 
+Has
+ 
+difficulty
+ 
+but
+ 
+does
+ 
+by
+ 
+self
+ 
+=
+ 
+1
+ 
+•
+ 
+Normal
+ 
+=
+ 
+0
+ 
+•
+ 
+Never
+ 
+did
+ 
+[the
+ 
+activity]
+ 
+but
+ 
+could
+ 
+do
+ 
+now
+ 
+=
+ 
+0
+ 
+•
+ 
+Never
+ 
+did
+ 
+and
+ 
+would
+ 
+have
+ 
+difficulty
+ 
+now
+ 
+=
+ 
+1
+ 
+ 
+●   ●  Sum  scores  (range  0-30).  Cutpoint  of  9  (dependent  in  3  or  
+more
+ 
+activities)
+ 
+is
+ 
+recommended
+ 
+to
+ 
+indicate
+ 
+impaired
+ 
+function
+ 
+and
+ 
+possible
+ 
+cognitive
+ 
+impairment.
+ 
+ 
+ 
+Copyright?  
+●  Permission  granted  only  for  not-for-proﬁt  educational  
+purposes.
+ 
+You  must  cite  the  source  (Hartford  Institute  for  Geriatric  
+Nursing,
+ 
+New
+ 
+York
+ 
+University).
+ 
+It  explicitly  says:  “Permission  is  hereby  granted  to  reproduce...  only  for  
+not-for-proﬁt
+ 
+educational
+ 
+purposes.”
+ 
+Step  1:  Contact  the  right  people  for  permission  
+
+--- Page 18 ---
+●  Email  the  Hartford  Institute  (they  distribute  the  popular  version):  
+hartford.ign@nyu.edu
+ 
+Mention
+ 
+you
+ 
+saw
+ 
+their
+ 
+permission
+ 
+statement
+ 
+and
+ 
+want
+ 
+to
+ 
+use
+ 
+the
+ 
+FAQ
+ 
+in
+ 
+a
+ 
+commercial
+ 
+digital
+ 
+app
+ 
+in
+ 
+India
+ 
+for
+ 
+Alzheimer’s
+ 
+awareness/early
+ 
+detection.
+ ●  You  can  also  check  ePROVIDE  /  Mapi  Research  Trust  (they  manage  many  such  tools): https://eprovide.mapi-trust.org/instruments/functional-activities-questionnaire  
+ 
+Step  2:  What  to  write  in  the  email  (Simple  template)  
+Subject:  Request  for  Permission  to  Use  Functional  Activities  Questionnaire  
+(FAQ)
+ 
+in
+ 
+Commercial
+ 
+App
+ 
+ 
+Dear  Hartford  Institute  Team,  
+ 
+I  am  developing  a  mobile/web  app  in  India  for  raising  awareness  about  early  
+cognitive
+ 
+changes
+ 
+and
+ 
+Alzheimer’s
+ 
+detection.
+ 
+I
+ 
+would
+ 
+like
+ 
+permission
+ 
+to
+ 
+include
+ 
+the
+ 
+Functional
+ 
+Activities
+ 
+Questionnaire
+ 
+(FAQ)
+ 
+in
+ 
+digital
+ 
+form
+ 
+inside
+ 
+the
+ 
+app.
+ 
+ 
+Details:  
+-  The  app  will  be  free/paid  with  possible  advertisements.  
+-  Questions  will  be  presented  as  interactive  MCQs  (no  modiﬁcation  to  core  
+content).
+ 
+-  Proper  copyright  notice  and  citation  will  be  displayed.  
+-  Users  will  be  informants  (family  members).  
+ 
+I  kindly  request  written  permission  for  commercial  use.  Please  let  me  know  any  
+conditions
+ 
+or
+ 
+fees.
+ 
+ 
+Thank  you,  
+[Your  Name]  
+[Your  Website/App  Name]  
+ 
+--- Page 19 ---
+Step  3:  If  they  allow  it  (best  case)  
+●  Keep  the  exact  10  questions  and  scoring  (0–3  per  item,  total  0–30,  cut-off  ≥9).  ●  Always  show  copyright  notice  +  citation  on  every  screen/result.  ●  Do  not  change  wording  signiﬁcantly.  
+ 
+Step  4:  If  they  say  No  or  it’s  complicated  
+●  Create  your  own  original  version  inspired  by  the  concept  (ask  about  8–12  daily  activities  
+like
+ 
+managing
+ 
+money,
+ 
+shopping,
+ 
+cooking,
+ 
+driving,
+ 
+etc.).
+ ●  This  is  the  safest  route  for  a  commercial  app.  
+Questions?  1.  Is  the  patient  able  to  perform  below  mentioned  tasks  and  select  the  options  
+accordingly?
+ a.  Is  patient  able  to  perform  these  tasksWriting  checks,  paying  bills,  balancing  
+checkbook
+ b.  Assembling  tax  records,  business  affairs,  or  papers  c.  Shopping  alone  for  clothes,  household  necessities,  or  groceries  d.  Playing  a  game  of  skill,  working  on  a  hobby  e.  Heating  water,  making  a  cup  of  coffee,  turning  off  stove  after  use  f.  Preparing  a  balanced  meal  g.  Keeping  track  of  current  events  h.  Paying  attention  to,  understanding,  discussing  TV,  book,  magazine  i.  Remembering  appointments,  family  occasions,  holidays,  medications  j.  Traveling  out  of  neighborhood,  driving,  arranging  to  take  buses  
+Options  for  each  question  from  a  to  b  are:  
+●   Dependent   ●    Requires  assistance   ●    Has  difficulty  but  does  by  self  ●   Normal   ●  Never  did  [the  activity]  but  could  do  now  ●   Never  did  and  would  have  difficulty  now    
+ 
+ 
+ 
+--- Page 20 ---
+SLUMS  
+--- Page 21 ---
+SLUMS  
+(Resources:https://www.youtube.com/watch?v=J62SFrpntcA ,  https://creyos.com/blog/slums-scoring,  )  
+ 
+What  it  does?  
+●  The  SLUMS  (Saint  Louis  University  Mental  Status)  test  is  a  brief,  11-question  
+screening
+ 
+tool
+ 
+used
+ 
+to
+ 
+detect
+ 
+early
+ 
+signs
+ 
+of
+ 
+dementia
+ 
+and
+ 
+mild
+ 
+cognitive
+ 
+impairment
+.
+ 
+Taking
+ 
+about
+ 
+7
+ 
+minutes
+ 
+to
+ 
+complete,
+ 
+it
+ 
+assesses
+ 
+memory,
+ 
+attention,
+ 
+language,
+ 
+and
+ 
+executive
+ 
+functions
+ 
+by
+ 
+asking
+ 
+patients
+ 
+to
+ 
+perform
+ 
+tasks
+ 
+like
+ 
+drawing
+ 
+a
+ 
+clock,
+ 
+recalling
+ 
+short
+ 
+stories,
+ 
+and
+ 
+naming
+ 
+animals.
+ 
+ 
+How  does  it  do  it?  
+●  ask  the  patient  a  set  of  11  questions,  with  the  SLUMS  score  ranging  from  0  to  
+30  ○  Questions  one  to  three:  Orientation  ○  Questions  four  and  seven:  Short-term  memory  and  delayed  recall  ○  Question  five:  Numeric  calculation  ○  Question  six:  Language  and  verbal  fluency  ○  Question  eight:  Working  memory  ○  Questions  nine  and  ten:  Executive  function  and  visuospatial  ability  ○  Question  eleven:  Immediate  recall,  executive  function,  and  
+extrapolation/abstract
+ 
+thinking
+ ●  Scoring:  SLUMS  scoring is  broken  down  into  two  scales,  one  for  patients  without  a  complete  high  school  education  and  another  those  with  a  highschool  
+education
+ 
+or
+ 
+greater.
+ 
+ ○  For  patients  who  have  not  completed  grade  12  or  equivalent  
+education:
+ ■  25–30:  Regular  cognition  ■  20–24:  Mild  cognitive  impairment  ■  1–19:  Signs  of  dementia  ○  For  patients  who  have  completed  grade  12  or  equivalent  
+education:
+ ■  27–30:  Regular  cognition  ■  21–26:  Mild  cognitive  impairment  
+--- Page 22 ---
+■  1–20:  Signs  of  dementia  
+However,  it  should  be  noted  that  SLUMS  results  can  be  skewed  if  
+the
+ 
+patient
+ 
+has:
+ 
+●  Language  or  cultural  barriers  with  the  physician.  ●  Vision  or  hearing  impairments.  ●  Existing  mental  conditions  
+Here’s  how  each  question  is  scored  according  to  the  Alberta  guide:  
+1.  Day  of  the  week  →  1  point  (exact  answer  only)  2.  Year  →  1  point  (exact)  3.  Province  (or  State/Country)  →  1  point  (exact)  4.  Remember  5  objects  (Apple,  Pen,  Tie,  House,  Car)  →  Not  scored  here  
+(scored
+ 
+later
+ 
+in
+ 
+Q7)
+ 5.  Money  calculation  ○  How  much  did  you  spend?  →  1  point  (exact  $23)  ○  How  much  money  left?  →  2  points  ($77)  (You  can  get  points  for  the  
+second
+ 
+part
+ 
+even
+ 
+if
+ 
+the
+ 
+first
+ 
+is
+ 
+wrong)
+ 6.  Name  as  many  animals  as  possible  in  1  minute  ○  0–4  animals  →  0  points  ○  5–9  →  1  point  ○  10–14  →  2  points  ○  15  or  more  →  3  points  7.  Recall  the  5  objects  (from  Q4)  →  1  point  per  correct  word  (max  5  points)  8.  Digits  backwards  ○  8-7  →  0  points  ○  6-4-8  →  1  point  ○  8-5-3-7  →  2  points  9.  Clock  Drawing  (put  numbers  +  set  time  to  10  o’clock )  ○  2  points  if  all  hour  markers  are  present  &  roughly  correct  ○  2  points  if  hands  are  correct  (minute  hand  at  10,  hour  hand  at  11,  
+correct
+ 
+lengths)
+ 
+→
+ 
+Max
+ 
+4
+ 
+points
+ 
+(all
+ 
+or
+ 
+nothing
+ 
+per
+ 
+part)
+ 10.  Shapes  (Place  “X”  in  triangle  +  identify  largest  shape)  ○  1  point  for  putting  X  in  triangle  ○  1  point  for  correctly  identifying  the  square  as  largest  →  Max  2  points  11.  Story  Questions  (Listen  to  a  short  story  and  answer  2  questions)  ○  2  points  per  correct  answer  →  Max  4  points  
+Total  =  30  points  maximum  
+--- Page 23 ---
+Copyright?  
+●  Not  heavily  restricted  ●  You  can  download  the  form  and  use  it  without  paying  royalties  in  hospitals,  
+clinics,
+ 
+or
+ 
+non-commercial
+ 
+settings
+ 
+For  safe  side:  
+●  
+Visit  the  Official  SLU  Page  Link: https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/mental-status-exam.php ●  
+Contact  Them  Directly  ○  
+Main  email:  aging@slu.edu  (mentioned  on  official  materials)  ○  
+Or  use  the  general  contact  form  on  the  SLU  Geriatric  Medicine  page.  ●  
+Sample  Permission  Request  Email  (Copy-Paste  and  Customize)  
+Subject:  Request  for  Permission  to  Use  SLUMS  Exam  in  Commercial  Web  App  (India)  
+ 
+Dear  SLU  Geriatric  Medicine  Team,  
+ 
+I  am  developing  a  web/mobile  application  in  India  focused  on  raising  awareness  about  early  cognitive  impairment  
+and
+ 
+Alzheimer’s
+ 
+detection.
+ 
+ 
+I  would  like  to  include  the  Saint  Louis  University  Mental  Status  (SLUMS)  Exam  in  digital,  interactive  format  (MCQ  
+style)
+ 
+inside
+ 
+the
+ 
+app.
+ 
+ 
+Details  of  intended  use:  
+-  The  app  will  be  available  to  the  general  public.  
+-  It  may  include  advertisements  or  premium  features  (commercial  nature).  
+-  Questions  will  be  presented  interactively;  no  major  changes  to  core  content.  
+-  Proper  copyright  notice  and  credit  to  Saint  Louis  University  will  be  displayed  on  every  screen  and  result  page.  
+-  Strong  medical  disclaimer  will  be  included.  
+ 
+I  kindly  request  your  written  permission  for  this  use.  Please  let  me  know  if  there  are  any  conditions,  restrictions,  or  
+fees.
+ 
+ 
+Thank  you  for  your  time.  
+--- Page 24 ---
+ 
+Best  regards,    
+[Your  Full  Name]    
+[Your  App/Website  Name]    
+[Your  Contact  Number  &  Email]  
+ 
+Questions?  
+Section  1:  Orientation  (3  points)  
+Q1.
+ 
+What
+ 
+day
+ 
+of
+ 
+the
+ 
+week
+ 
+is
+ 
+today?
+ 
+(Interactive  Calendar  or  Dropdown)  
+●  Dropdown  list  of  7  days  →  1  point  for  exact  correct  day.  
+Q2.  What  is  the  current  year?  
+●  Text  input  or  Multiple  Choice  with  5  options  (current  year  +  2  before/after)  →  1  point  for  
+exact.
+ 
+Q3.  Which  country  are  we  in?  (or  State/Province)  
+●  MCQ  with  options:  A)  India  B)  United  States  C)  Canada  D)  Australia  E)  Others  →  1  point  
+for
+ 
+correct
+ 
+(India).
+ 
+ 
+Section  2:  Registration  (Memory  -  Not  Scored  Here)  
+“Please  remember  these  5  words.  I  will  ask  you  later.”  
+Show  big  colorful  cards  one  by  one:  
+Apple   •   Pen   •   Tie   •   House   •   Car  
+Button:  “I  have  remembered  them”  →  Proceed.  
+ 
+Section  3:  Money  Calculation  (3  points)  
+Q4.  You  had  $100  and  you  bought  something  for  $23.  
+a)  How  much  money  did  you  spend?  
+●  MCQ:  A)  $23  B)  $77  C)  $100  D)  $123  →  1  point  for  A.  
+--- Page 25 ---
+b)  How  much  money  do  you  have  left?  
+●  MCQ:  A)  $23  B)  $77  C)  $100  D)  $123  →  2  points  for  B  (even  if  a  is  wrong).  
+ 
+Section  4:  Animals  Naming  (Verbal  +  Interactive,  3  points)  
+“Name  as  many  animals  as  you  can  in  60  seconds.”  
+Website  Implementation:  
+●  Big  “Start  Timer”  button  (60  seconds  countdown).  ●  User  speaks  into  microphone  (speech-to-text)  or  types  in  a  box.  ●  Auto-count  the  number  of  animals  (you  can  use  simple  keyword  detection:  cat,  dog,  lion,  
+etc.).
+ ●  Scoring  (automatic):  ○  0–4  →  0  pts  ○  5–9  →  1  pt  ○  10–14  →  2  pts  ○  15+  →  3  pts  
+(Alternative  if  speech  not  possible:  Give  them  60  seconds  and  let  them  type,  then  auto-score.)  
+ 
+Section  5:  Delayed  Recall  (5  points)  
+“Which  of  these  words  did  you  see  earlier?”  
+Show  a  grid  of  12  words  (checkboxes  -  multiple  selection  allowed):  
+Include:  Apple,  Pen,  Tie,  House,  Car  +  7  distractors  (Book,  Chair,  Dog,  River,  Table,  Watch,  Flower)  
+→  1  point  per  correct  word  (max  5)  
+ 
+Section  6:  Digits  Backwards  (2  points)  
+“Repeat  these  numbers  in  reverse  order.”  
+●  First:  Show/hear  8  7  →  User  types  or  selects  from  options.  ●  Second:  Show/hear  6  4  8  →  User  types/selects.  ●  Third:  Show/hear  8  5  3  7  →  User  types/selects.  
+MCQ  style  (easier):  
+Give  4  options  for  each  and  let  them  choose  the  correct  reverse  order.  
+--- Page 26 ---
+Scoring:  
+●  First  sequence  correct  →  0  pts  (practice)  ●  Second  correct  →  1  pt  ●  Third  correct  →  2  pts  (total  max  2)  
+ 
+Section  7:  Clock  Test  (4  points)  -  No  Drawing  Needed  
+“Set  the  clock  to  show  10  o’clock”  
+Interactive  Option  (Best):  
+●  Show  a  digital  clock  interface  where  user  can  drag  the  hour  and  minute  hands.  ●  Or  simpler  MCQ:  
+Question:  Which  clock  shows  10:00  correctly?  
+Show  4  clock  images:  
+●  A:  Correct  (hands  at  10  and  12)  ●  B:  Hands  at  11:10  ●  C:  Numbers  wrong  ●  D:  Hands  reversed  
+Plus  Numbers  Check:  
+“Does  this  clock  have  all  numbers  in  correct  position?”  (show  image)  →  Yes/No  
+Scoring:  2  pts  for  correct  time  +  2  pts  for  correct  numbers.  
+ 
+Section  8:  Shapes  (2  points)  
+Show  this  image  (you  can  create  simple  shapes):  
+[  Triangle  |  Circle  |  Square  |  Rectangle  ]  
+Q1:  Put  an  “X”  inside  the  Triangle  →  User  clicks  on  the  correct  shape  (click  interaction).  →  1  point  
+Q2:  Which  shape  is  the  largest?  
+●  MCQ:  Triangle  /  Circle  /  Square  /  Rectangle  →  1  point  for  Square.  
+ 
+Section  9:  Story  Memory  (4  points)  
+--- Page 27 ---
+Read  this  story  aloud  (or  show  text  +  audio):  
+“John  is  65  years  old.  He  lives  in  Bhopal.  Yesterday  he  went  to  the  market  and  bought  milk,  
+vegetables,
+ 
+and
+ 
+a
+ 
+newspaper.
+ 
+He
+ 
+paid
+ 
+150
+ 
+rupees.”
+ 
+Questions  (MCQ):  
+1.  How  old  is  John?  A)  55  B)  60  C)  65  D)  70  →  2  points  2.  What  did  John  buy?  (Select  all  that  apply)  ○  Milk  ○  Bread  ○  Vegetables  ○  Newspaper  ○  Shoes  →  2  points  if  Milk  +  Vegetables  +  Newspaper  are  selected.  
+ 
+ 
+ 
+ 
+ 

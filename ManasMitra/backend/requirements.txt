@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pypdf
+groq
+pydantic
+python-multipart

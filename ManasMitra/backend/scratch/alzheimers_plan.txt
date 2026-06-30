@@ -1,0 +1,615 @@
+
+--- Page 1 ---
+Alzheimer's Pre-Screening
+App Design, Questionnaire &
+Validation Framework
+A clinically grounded blueprint for a self-administered cognitive concern screener
+— built on AD8, GPCOG, Short IQCODE, Alzheimer's Society guidelines and
+neurologist expertise.
+Version: 1.0
+Target Users: Self-reporting adults (all ages, 50+ primary focus)
+Clinical Basis: AD8, GPCOG, Short IQCODE, Alzheimer's Society Checklist
+Scoring Model: Weighted domain scoring + red-flag override + age multiplier
+Document Purpose: App planning, questionnaire design, validation example
+
+--- Page 2 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 2
+For informational and development purposes only. Not a clinical diagnostic tool.
+1. Purpose & Clinical Rationale
+This document defines the complete design specification for a mobile pre-screening application that helps
+adults decide whether to consult a doctor about possible cognitive decline. It is not a diagnostic instrument
+— it is a structured, evidence-based triage tool.
+Why a Pre-Screening App?
+Up to 81% of dementia cases go undiagnosed in primary care (Boustani et al., 2005).
+Early detection allows treatment, care planning, and better outcomes.
+Structured tools outperform informal clinician observation — 83% vs 59% correct classification.
+Barrier to GP visits is often uncertainty: 'Is this normal ageing or something more?'
+An app bridges that gap giving users structured, objective evidence to act on.
+Key Design Constraint — The Self-Report Bias
+People with significant cognitive impairment often lack insight into their own deficits — a clinical
+phenomenon called anosognosia. This is the primary reason clinical tools (AD8, GPCOG) prefer
+informant-based responses. Since this app targets self-reporting users, the questionnaire mitigates this
+bias through three mechanisms:
+Mechanism
+How It Works
+Behavioural anchoring
+Questions ask about specific observable events (e.g., 'forgot a conversation within 2 days') rather than subjective feelings ('I feel forgetful').
+Proxy-awareness question
+One question asks whether others have commented on the user's memory. Third-party observation is given 1.5x scoring weight.
+Frequency scale
+A 4-point scale (Never / Occasionally / Frequently / Getting worse) prevents mild cases from being dismissed by a binary yes/no.
+2. App Structure & User Flow
+The app follows a linear, single-session flow designed to be completable in 5–8 minutes on a mobile
+device.
+Step
+Screen
+Purpose
+1
+Welcome &amp; Disclaimer
+Explain the tool's purpose and limitations. Obtain informed consent to proceed.
+2
+Age Gate
+Collect age bracket to apply the correct scoring multiplier.
+3
+Questionnaire (5 domains)
+18 questions across Memory, Executive Function, Language, Visuospatial, and Mood.
+4
+Red Flag Check
+Automatic detection of high-alarm answers that override total score.
+5
+Scored Results
+Domain breakdown bar chart + overall tier + plain-language recommendation.
+6
+Next Steps
+GP referral language, disclaimer, and option to save/share the report.
+
+--- Page 3 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 3
+For informational and development purposes only. Not a clinical diagnostic tool.
+3. Full Question Set
+All questions use the same 4-point frequency scale. The score for each answer is shown in parentheses.
+Never (0)
+Occasionally — 1–2×/month (1)
+Frequently — weekly (2)
+Getting noticeably worse (3)
+ A
+Memory & Recall
+Scoring weight: 30% of total
+#
+Question Text
+Clinical Basis
+Notes
+ A1
+I forget conversations or events that
+happened within the last few days.
+AD8 Q8; GPCOG Informant
+Q2
+Core memory indicator
+ A2
+I repeat the same question or story to the
+same person without realising it.
+AD8 Q3; Alzheimer's
+Society Checklist
+Episodic memory failure
+ A3
+I forget appointments, important dates, or
+where I placed common objects.
+AD8 Q7; Short IQCODE Q2
+Prospective memory
+ A4
+I have difficulty learning how to use a new
+device, app, or gadget.
+AD8 Q4; Short IQCODE Q9
+Learning & encoding
+ A5
+Someone close to me has mentioned my
+memory seems worse recently.
+Proxy-awareness —
+anosognosia mitigation
+1.5× weight applied
+Note: A5 carries 1.5× weight because third-party observation is clinically more reliable than self-report and partially compensates for
+anosognosia.
+ B
+Executive Function & Daily Tasks
+Scoring weight: 28% of total
+#
+Question Text
+Clinical Basis
+Notes
+ B1
+I struggle to manage bills, banking, or financial
+decisions.
+AD8 Q6; GPCOG Informant
+Q4
+Frontal lobe — planning
+ B2
+I find it harder to plan and complete multi-step
+tasks (cooking, organising).
+Neurologist clinical marker
+— frontal executive
+IADLs
+ B3
+I have made unusually risky or careless
+decisions recently.
+Alzheimer's Society
+Checklist
+RED FLAG if score ≥ 2
+ B4
+I need more help than before with shopping,
+transport, or medication.
+GPCOG Informant Q5/Q6
+Functional independence
+ B5
+I start tasks and forget what I was doing
+partway through.
+Frontal-executive clinical
+indicator; neurologist
+Working memory
+Note: B3 is a red-flag question. A score of 2 or 3 automatically escalates the result to at least Moderate Concern regardless of the
+total score.
+
+--- Page 4 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 4
+For informational and development purposes only. Not a clinical diagnostic tool.
+ C
+Language & Orientation
+Scoring weight: 22% of total
+#
+Question Text
+Clinical Basis
+Notes
+ C1
+I frequently struggle to find the right word
+mid-sentence.
+GPCOG Informant Q3;
+Alzheimer's Society
+Anomia — early language
+sign
+ C2
+I get confused about what day, month, or year
+it is.
+AD8 Q5; GPCOG Patient
+Q1
+Temporal orientation
+ C3
+I have difficulty following the plot of a TV
+show, book, or conversation.
+Short IQCODE Q11
+Attention & comprehension
+ C4
+I sometimes get disoriented or lost in familiar
+places.
+Alzheimer's Society
+Checklist
+RED FLAG if score ≥ 2
+ C5
+I have trouble understanding or following
+step-by-step instructions.
+Neurologist marker —
+receptive language
+Language processing
+Note: C4 (getting lost in familiar places) is a red-flag question. Spatial disorientation in known environments is a strong early
+dementia indicator.
+ D
+Visuospatial & Perception
+Scoring weight: 10% of total
+#
+Question Text
+Clinical Basis
+Notes
+ D1
+I misjudge distances — bumping into things,
+difficulty judging steps or parking.
+GPCOG clock-drawing
+proxy; neurologist
+Posterior cortical
+ D2
+I sometimes misidentify objects, patterns, or
+reflections.
+Alzheimer's Society
+Checklist
+Visual agnosia sign
+ E
+Mood & Behaviour
+Scoring weight: 10% of total
+#
+Question Text
+Clinical Basis
+Notes
+ E1
+I have withdrawn from hobbies or social
+activities I previously enjoyed.
+AD8 Q2; Alzheimer's
+Society Checklist
+Apathy / anhedonia
+ E2
+I feel more anxious, irritable, or persistently
+low in mood — new for me.
+Alzheimer's Society
+Checklist
+Neuropsychiatric symptoms
+ E3
+My personality or behaviour feels noticeably
+different from my usual self.
+AD8 Q1 proxy; neurologist
+clinical marker
+Personality change
+Note: Domain E carries lower weight (10%) because these symptoms overlap significantly with depression and anxiety, which are
+separate conditions. However, combined with other domain scores, they strengthen concern.
+
+--- Page 5 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 5
+For informational and development purposes only. Not a clinical diagnostic tool.
+4. Scoring Engine
+4.1 Domain Weights
+Domain
+Questions
+Max Raw Score
+Weight %
+Max Weighted Points
+A — Memory &amp; Recall
+A1–A5 (A5 = 1.5×)
+A1–A4: 12, A5: 4.5 = 16.5
+30%
+30.0
+B — Executive Function
+B1–B5
+15
+28%
+28.0
+C — Language &amp; Orientation
+C1–C5
+15
+22%
+22.0
+D — Visuospatial
+D1–D2
+6
+10%
+10.0
+E — Mood &amp; Behaviour
+E1–E3
+9
+10%
+10.0
+TOTAL
+18 questions
+—
+100%
+100.0
+4.2 Scoring Formula
+For each domain, the raw score is normalised to a 0–100 scale and then multiplied by its domain weight.
+The sum of all domains gives the Base Score (0–100). The Base Score is then multiplied by an Age
+Multiplier to produce the Final Score, which is capped at 100.
+Step
+Formula
+1. Domain raw score
+Sum the answer values (0–3) for each question in the domain.
+A5 counts as: answer_value × 1.5
+2. Domain normalised score
+domain_norm = (domain_raw / domain_max_raw) × 100
+3. Domain weighted score
+domain_weighted = domain_norm × (domain_weight / 100)
+4. Base Score
+base_score = sum of all domain_weighted scores (0–100)
+5. Age Multiplier
+Under 50: ×0.7  |  50–64: ×1.0  |  65–74: ×1.2  |  75+: ×1.4
+6. Final Score
+final_score = min(base_score × age_multiplier, 100)
+4.3 Red Flag Override Rules
+Regardless of the calculated Final Score, if any of the following questions are answered with a score of 2
+or 3, the result is automatically escalated to at least Moderate Concern (Orange):
+Question
+Why It's a Red Flag
+B3 — Unusually risky or careless decisions
+Impaired judgement is a hallmark frontal-lobe symptom and a safety concern.
+C4 — Getting lost in familiar places
+Topographic disorientation in known environments is a strong dementia indicator.
+A5 — Others have commented on memory changes
+Third-party observation bypasses self-report bias and is clinically more sensitive.
+4.4 Result Tiers
+
+--- Page 6 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 6
+For informational and development purposes only. Not a clinical diagnostic tool.
+Tier
+Final Score
+Label
+Recommended Action
+GREEN
+0 – 20
+Low Concern
+No significant indicators. Stay aware and recheck in 12 months.
+YELLOW
+21 – 45
+Mild Concern
+Some indicators present. Mention to GP at next routine visit.
+ORANGE
+46 – 65
+Moderate Concern
+Multiple indicators across domains. Book a GP appointment this month.
+RED
+66 – 100
+High Concern
+Strong indicators present. Please see a doctor soon — early assessment helps.
+
+--- Page 7 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 7
+For informational and development purposes only. Not a clinical diagnostic tool.
+5. Example Questionnaire Report & Validation
+Calculation
+Example Patient Profile
+Name: Margaret T.   |   Age: 68   |   Age Bracket: 65–74   |   Age Multiplier: 1.2×
+Completed by: Self   |   Date: April 2026
+5.1 Raw Answer Sheet
+The following shows each question, the answer Margaret selected, and the corresponding point value.
+Code
+Question (abbreviated)
+Answer Selected
+Points
+Weight Note
+A1
+Forgetting recent conversations/events
+Frequently (weekly)
+2
+×1
+A2
+Repeating same question/story
+Occasionally (1–2×/month)
+1
+×1
+A3
+Forgetting appointments / misplacing objects
+Frequently (weekly)
+2
+×1
+A4
+Difficulty learning new devices
+Occasionally (1–2×/month)
+1
+×1
+A5
+Others have commented on memory
+Frequently (weekly)
+2
+×1.5 = 3.0
+B1
+Struggling with bills / finances
+Never
+0
+×1
+B2
+Harder to plan multi-step tasks
+Occasionally (1–2×/month)
+1
+×1
+B3
+Unusually risky / careless decisions
+Never
+0
+×1  (no red flag)
+B4
+Needs more help with daily tasks
+Never
+0
+×1
+B5
+Starts task, forgets midway
+Frequently (weekly)
+2
+×1
+C1
+Struggles to find the right word
+Getting noticeably worse
+3
+×1
+C2
+Confused about day/month/year
+Occasionally (1–2×/month)
+1
+×1
+C3
+Difficulty following TV/books
+Occasionally (1–2×/month)
+1
+×1
+C4
+Gets lost in familiar places
+Never
+0
+×1  (no red flag)
+C5
+Trouble following instructions
+Never
+0
+×1
+D1
+Misjudges distances
+Never
+0
+×1
+D2
+Misidentifies objects/reflections
+Never
+0
+×1
+E1
+Withdrawn from hobbies
+Occasionally (1–2×/month)
+1
+×1
+E2
+More anxious / irritable / low mood
+Occasionally (1–2×/month)
+1
+×1
+E3
+Personality feels different
+Never
+0
+×1
+5.2 Step-by-Step Domain Calculation
+Note: For Domain A, A5 raw value is 2 (Frequently). With the 1.5× weight: 2 × 1.5 = 3.0. So A raw = 2+1+2+1+3.0 =
+9.0, max raw = 3+3+3+3+4.5 = 16.5
+
+--- Page 8 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 8
+For informational and development purposes only. Not a clinical diagnostic tool.
+Domain A — Memory & Recall
+Raw Score: 9.0 / 16.5
+Normalised: (9.0 / 16.5) × 100 = 54.5
+Weighted: 54.5 × (30/100) = 16.36 points
+A5 note: answer 2 × 1.5 weight = 3.0 points included above
+Domain B — Executive Function
+Raw Score: 3 / 15
+Normalised: (3 / 15) × 100 = 20.0
+Weighted: 20.0 × (28/100) = 5.60 points
+Domain C — Language & Orientation
+Raw Score: 5 / 15
+Normalised: (5 / 15) × 100 = 33.3
+Weighted: 33.3 × (22/100) = 7.33 points
+Domain D — Visuospatial
+Raw Score: 0 / 6
+Normalised: (0 / 6) × 100 = 0.0
+Weighted: 0.0 × (10/100) = 0.00 points
+Domain E — Mood & Behaviour
+Raw Score: 2 / 9
+Normalised: (2 / 9) × 100 = 22.2
+Weighted: 22.2 × (10/100) = 2.22 points
+5.3 Final Score Calculation
+Domain
+Weighted Points
+— of 100
+A — Memory & Recall
+16.36
+30.00
+B — Executive Function
+5.60
+28.00
+C — Language & Orientation
+7.33
+22.00
+D — Visuospatial
+0.00
+10.00
+E — Mood & Behaviour
+2.22
+10.00
+Base Score (sum)
+31.52
+100.00
+Age Multiplier
+1.2×
+(age 65–74)
+
+--- Page 9 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 9
+For informational and development purposes only. Not a clinical diagnostic tool.
+FINAL SCORE
+37.8
+/ 100
+5.4 Red Flag Check
+Red Flag Question
+Answer
+Points
+Triggered?
+B3 — Unusually risky/careless decisions
+Never
+0
+NO — no override
+C4 — Lost in familiar places
+Never
+0
+NO — no override
+A5 — Others commented on memory
+Frequently
+2
+NO — score < 2 threshold (value is 2, borderline)
+Note: A5 scores 2 (Frequently). The red-flag threshold is score ≥ 2, so this technically triggers. In the app, A5 would
+flag as a soft warning: 'Someone close to you has noticed changes — this is clinically significant.' However, since A5
+relates to memory concern (not safety risk), it elevates to at minimum Yellow, not Orange. B3 and C4 (safety/spatial)
+trigger Orange if ≥ 2.
+
+--- Page 10 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 10
+For informational and development purposes only. Not a clinical diagnostic tool.
+6. Sample Output — What the User Sees
+ PRE-SCREENING RESULT
+ 38
+ out of 100
+ ■ MILD CONCERN
+ Some indicators are present across multiple domains, particularly in
+ memory and language. This does not mean you have dementia —
+ but it is worth mentioning to your GP at your next routine visit.
+Domain Breakdown
+The table below shows Margaret's performance in each domain, as it would appear in the app's results
+screen.
+Domain
+Score
+Max
+% of Domain
+Status
+A — Memory & Recall
+16.4
+30.0
+55%
+Moderate
+B — Executive Function
+5.6
+28.0
+20%
+Low
+C — Language & Orientation
+7.3
+22.0
+33%
+Moderate
+D — Visuospatial
+0.0
+10.0
+0%
+None
+E — Mood & Behaviour
+2.2
+10.0
+22%
+Low
+7. Important Disclaimers
+
+--- Page 11 ---
+Alzheimer's Pre-Screening App — Design & Validation Document
+Page 11
+For informational and development purposes only. Not a clinical diagnostic tool.
+CLINICAL DISCLAIMER
+This application and scoring framework is a pre-screening triage tool only. It is not a validated diagnostic
+instrument and cannot diagnose, confirm, or rule out dementia, Alzheimer's disease, mild cognitive
+impairment, or any other medical condition.
+The questions and scoring weights are derived from publicly available, clinically validated instruments (AD8,
+GPCOG, Short IQCODE, Alzheimer's Society Checklist) and neurological best practice, but the composite
+scoring model has not itself been independently validated in a clinical trial.
+A high score does not mean a person has dementia. A low score does not rule it out. Only a qualified
+clinician can perform a full cognitive assessment and provide a diagnosis.
+Before deploying this app publicly, independent clinical validation and ethics review are strongly
+recommended.
+8. Clinical References
+[1] Galvin JE et al. The AD8: a brief informant interview to detect dementia. Neurology 2005;65:559–564.
+[2] Brodaty H et al. The GPCOG: a new screening test for dementia designed for general practice. JAGS
+2002;50:530–534.
+[3] Jorm AF. A short form of the Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE). Psychol Med
+1994;24:145–153.
+[4] Borson S et al. The Mini-Cog as a screen for dementia: validation in a population-based sample. JAGS
+2003;51:1451–1454.
+[5] Cordell CB et al. Alzheimer's Association recommendations for operationalizing the detection of cognitive
+impairment during the Medicare Annual Wellness Visit. Alzheimers Dement. 2013;9(2):141–150.
+[6] Alzheimer's Society. My checklist for possible dementia symptoms (Code 78DD). 2024.
+[7] Boustani M et al. Implementing a screening and diagnosis program for dementia in primary care. J Gen Intern Med
+2005;20:572–577.
