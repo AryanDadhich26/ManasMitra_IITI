@@ -2,8 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
-
+// const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API_BASE_URL = import.meta.env.VITE_API_URL + "/api";
 function App() {
   const [threads, setThreads] = useState([]);
   const [activeThreadId, setActiveThreadId] = useState(null);
