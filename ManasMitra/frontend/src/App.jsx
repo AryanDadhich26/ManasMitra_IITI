@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./App.css";
 
-const API_BASE_URL = "http://localhost:8000/api";
+
+const API_URL = import.meta.env.https://manasmitra-iiti.onrender.com || "http://localhost:8000";
 
 function App() {
   const [threads, setThreads] = useState([]);
